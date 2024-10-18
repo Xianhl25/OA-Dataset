@@ -68,5 +68,3 @@ LIBS += -lopengl32 -lglu32
 ```
 
 What's more, the Qt version should be same as the project.
-
-![image-20241018162219072](C:\Users\Xian\AppData\Roaming\Typora\typora-user-images\image-20241018162219072.png)
