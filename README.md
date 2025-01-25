@@ -1,5 +1,5 @@
 # Outdoors-Dataset
-This is a scripts repository for outdoors dataset
+This is a scripts repository for OA dataset
 
 ## Experiment Protocol
 
